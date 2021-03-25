@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{379:function(n,t,e){"use strict";e.r(t);var s=e(0),a=Object(s.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("div",{staticClass:"content"},[t("p",[this._v("一个无聊的的猜数字游戏，无聊爆表的话就来玩玩吧✿✿ヽ(°▽°)ノ✿\n"),t("number-game")],1)])}),[],!1,null,null,null);t.default=a.exports}}]);
